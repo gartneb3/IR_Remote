@@ -1,1 +1,1 @@
-The code is used for controlling the actuators and goalie. You can learn more on how it works in the WiKi.
+3D models are included in the Models folder to print the files needed to assemble the components. The code is used for controlling the actuators and goalie. You can learn more on how it works in the WiKi.
